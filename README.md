@@ -2,6 +2,7 @@
 Working on covid-19 data
 
 Built dasboards on Daily cases and deaths by date reported to WHO
+-Added slicers to visualizations
 
 
 
