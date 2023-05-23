@@ -23,7 +23,8 @@ Datasets:
 4)Vaccination metadata
 
 Screenshot of Covid Cases Dashboard:
-<img width="1373" alt="image" src="https://github.com/varundeepakgudhe/WHO-10-covid-data/assets/112991463/eacaefd7-9c3e-4dd3-b2d5-894d9e3c1812">
+<img width="1241" alt="image" src="https://github.com/varundeepakgudhe/WHO-10-covid-data/assets/112991463/b9c6783c-125d-45f7-bed5-5556df2831c9">
+
 
 Screenshot of Death Cases Dashboard:
 <img width="1490" alt="image" src="https://github.com/varundeepakgudhe/WHO-10-covid-data/assets/112991463/51610357-5994-4e1f-9a10-1de678080d3c">
