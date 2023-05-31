@@ -28,3 +28,6 @@ Screenshot of Covid Cases Dashboard:
 
 Screenshot of Death Cases Dashboard:
 <img width="1490" alt="image" src="https://github.com/varundeepakgudhe/WHO-10-covid-data/assets/112991463/51610357-5994-4e1f-9a10-1de678080d3c">
+
+Screenshot of Maps:
+<img width="1012" alt="image" src="https://github.com/varundeepakgudhe/WHO-10-covid-data/assets/112991463/cc889251-4372-425b-8d70-0f885bf79eea">
